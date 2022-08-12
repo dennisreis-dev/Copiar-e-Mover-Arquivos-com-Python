@@ -1,6 +1,6 @@
 # listar arquivos
-import os
-import shutil
+import os #Litsa, renomeia e move arquivos
+import shutil #copiar arquivos
 
 #arquivos = os.listdir()
 #print(arquivos)
